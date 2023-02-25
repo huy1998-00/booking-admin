@@ -1,0 +1,7 @@
+.infor_container {
+  display: flex;
+  height: 13rem;
+  margin-top: 1rem;
+}
+.info_icon > svg {
+}

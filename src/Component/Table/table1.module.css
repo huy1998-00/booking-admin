@@ -1,0 +1,39 @@
+.tab1_container table {
+  border: 1px solid #cfcece;
+}
+.tab1_container table,
+.tab1_container th,
+.tab1_container td {
+  border-collapse: collapse;
+  margin: 10px;
+}
+
+.tab1_container th,
+.tab1_container td {
+  padding: 20px;
+  text-align: center;
+}
+.tab1_container tr {
+  border-top: 1px solid #ccc;
+}
+
+.statusBooked {
+  padding: 4px;
+  border-radius: 5px;
+  background-color: #f69685;
+  color: #528a58;
+}
+
+.statusCheckin {
+  padding: 4px;
+  border-radius: 5px;
+  background-color: #39d139;
+  color: #528a58;
+}
+
+.statusCheckout {
+  padding: 4px;
+  border-radius: 5px;
+  background-color: #d3d0f2;
+  color: #528a58;
+}

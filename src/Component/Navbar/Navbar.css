@@ -1,0 +1,24 @@
+.nav_container {
+  margin: 1rem 1rem;
+  border-right: 2px solid #ccc;
+  width: 20%;
+}
+.nav_container > h1 {
+  color: #653aff;
+  padding-bottom: 15px;
+  border-bottom: 2px solid #ccc;
+}
+.nav_items {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2rem;
+}
+
+span {
+  margin-left: 4px;
+}
+
+.nav_items > a > span,
+.nav_items > h4 {
+  color: #918d8d;
+}

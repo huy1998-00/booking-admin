@@ -1,0 +1,47 @@
+.info_items {
+  width: 25%;
+  box-shadow: 5px 8px #efefefcc;
+  margin-left: 1rem;
+  margin-bottom: 4rem;
+  margin-top: 0rem;
+  border: 1px solid #efefef;
+  border-radius: 20px;
+  padding-left: 20px;
+}
+.info_icons {
+  position: relative;
+}
+.info_icon1 {
+  position: absolute;
+  right: 1rem;
+  padding: 6px;
+  background: #ffcccc;
+  color: #dd1b42;
+  border-radius: 10px;
+}
+.info_icon2 {
+  position: absolute;
+  right: 1rem;
+  padding: 6px;
+  background: #f8edd2;
+  color: #ddb44f;
+  border-radius: 10px;
+}
+
+.info_icon3 {
+  position: absolute;
+  right: 1rem;
+  padding: 6px;
+  background: #cce6cc;
+  color: #63b763;
+  border-radius: 10px;
+}
+
+.info_icon4 {
+  position: absolute;
+  right: 1rem;
+  padding: 6px;
+  background: #e6cce6;
+  color: #c929c9;
+  border-radius: 10px;
+}

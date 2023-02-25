@@ -1,0 +1,35 @@
+.table3_container table {
+  border: 1px solid #cfcece;
+}
+.table3_container table,
+.table3_container th,
+.table3_container td {
+  border-collapse: collapse;
+  margin: 10px;
+}
+
+.table3_container th,
+.table3_container td {
+  padding: 20px 25px;
+  text-align: center;
+}
+.table3_container tr {
+  border-top: 1px solid #ccc;
+}
+
+.delete {
+  border: 1px dashed red;
+  color: red;
+  background: white;
+  padding: 6px;
+  border-radius: 6px;
+}
+
+.edit {
+  border: 1px dashed rgb(51 145 189);
+  color: rgb(51 145 189);
+  background: white;
+  padding: 6px 12px;
+  border-radius: 6px;
+  margin-right: 0.3rem;
+}
